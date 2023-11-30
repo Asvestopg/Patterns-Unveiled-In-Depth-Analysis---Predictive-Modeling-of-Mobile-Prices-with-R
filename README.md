@@ -1,4 +1,4 @@
-# Title: Unveiling Patterns: Analyzing Mobile Phone Prices in Relation to Human Characteristics using R
+# Unveiling Patterns: Analyzing Mobile Phone Prices in Relation to Human Characteristics using R
 
 ## Introduction
 Embark on a profound exploration of a dataset that reveals nuanced connections between mobile phone prices and diverse human attributes. This project meticulously investigates features such as marital status, education, income, age, and user preferences, seeking to unveil intricate patterns that shape mobile phone pricing decisions.
